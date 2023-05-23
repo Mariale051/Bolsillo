@@ -1,0 +1,230 @@
+ .u-section-1 {
+  background-image: url("images/fondo-marmol-gris_41908-254.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1137px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 125px 84px 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 297px;
+  height: 406px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0.85;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 128px auto 0;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 251px;
+  height: 342px;
+  margin: -373px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 211px;
+  margin: -312px auto 0;
+}
+
+.u-section-1 .u-shape-3 {
+  width: 297px;
+  height: 406px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0.75;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: -220px 100px 0 auto;
+}
+
+.u-section-1 .u-group-1 {
+  width: 251px;
+  min-height: 348px;
+  margin: -373px 124px 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 26px 29px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 104px;
+  height: 104px;
+  margin: 15px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-shape-4 {
+  width: 297px;
+  height: 406px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0.95;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: -379px auto 0 100px;
+}
+
+.u-section-1 .u-group-2 {
+  width: 251px;
+  min-height: 342px;
+  height: auto;
+  margin: -374px auto 0 123px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 15px 26px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 15px 4px 0;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 100px;
+  height: 100px;
+  margin: 15px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-3 {
+  width: 108px;
+  height: 108px;
+  margin: -138px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  letter-spacing: 0px;
+  margin: 85px auto 0 189px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  letter-spacing: 0px;
+  margin: -49px auto 0;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: solid;
+  letter-spacing: 0px;
+  margin: -49px 189px 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 545px;
+  height: 111px;
+  margin: 112px auto 0 84px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 555px;
+  height: 254px;
+  margin: -183px 84px 48px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 938px;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 718px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 531px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: -20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 110px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 247px;
+    margin-top: -182px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 399px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-right: 43px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: 89px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-left: 43px;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-left: 89px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 71px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 69px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 156px;
+    margin-top: -141px;
+  }
+}

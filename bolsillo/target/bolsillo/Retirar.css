@@ -1,0 +1,87 @@
+.u-section-1 {
+  background-image: url("images/RECARGAR.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 671px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 341px;
+  min-height: 473px;
+  height: auto;
+  margin: 60px auto 60px 388px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 18px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  margin: 0 23px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 192px;
+  --thumb-color: #876cc4;
+  --thumb-hover-color: #a793d6;
+  --track-color: #c0c0c0;
+  --track-active-color: #876cc4;
+  width: 211px;
+  margin: 48px auto 0;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 553px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-form-group-1 {
+    --progress: 0%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 424px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: 379px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 318px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: 199px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 200px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
